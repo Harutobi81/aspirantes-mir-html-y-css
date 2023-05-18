@@ -1,4 +1,7 @@
-h1 {
-    color: hsl(165, 100%, 40%);
+body {
+    background-color: #cfe9e9
+    ;
 }
-
+h1 {
+    color: hsl(0, 94%, 50%);
+}
